@@ -1,0 +1,69 @@
+# Visual Studio 2017/2019/2022
+.vs/
+.vsconfig
+.vscode/
+
+# Rider
+.idea/
+
+# Build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.fuse/
+.debug/
+.mono/
+
+# Crash reports
+CrashReportClient/
+
+# Local settings
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.log
+*.pdb
+*.obj
+*.ilk
+*.ipdb
+*.dll
+*.exe
+*.lib
+*.exp
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.bak
+*.o
+*.a
+*.so
+*.dylib
+
+# Unreal specific
+*.uasset
+*.umap
+*.udatasmith
+*.tsc
+Autosaves/
+
+# macOS specific
+.DS_Store
+
+# Linux specific
+*.mk
+*.tar.gz
+*.zip
+*.rar
+
+# Source control ignore for Git LFS
+# These are handled by Git LFS attributes, but listed here for clarity
+# *.uasset binary
+# *.umap binary
