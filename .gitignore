@@ -48,8 +48,8 @@ CrashReportClient/
 *.dylib
 
 # Unreal specific
-*.uasset
-*.umap
+#*.uasset
+#*.umap
 *.udatasmith
 *.tsc
 Autosaves/
